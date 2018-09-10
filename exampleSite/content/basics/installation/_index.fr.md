@@ -3,7 +3,7 @@ title: Installation
 weight: 15
 ---
 
-Les étapes suivantes sont là pour vous aider à initialiser votre site. Si vous ne connaissez pas du tout Hugo, il est fortement conseillé de vous entrainer en suivant ce [super tuto pour débutants](https://gohugo.io/overview/quickstart/).
+Les étapes suivantes sont là pour vous aider à initialiser votre site. Si vous ne connaissez pas du tout Hugo, il est fortement conseillé de vous entraîner en suivant ce [super tuto pour débutants](https://gohugo.io/overview/quickstart/).
 
 ## Créer votre projet
 
@@ -74,7 +74,7 @@ N'hésitez pas à éditer ces fichiers en ajoutant des exemple de contenu et en 
 Lancez la commande suivante :
 
 ```
-hugo serve
+hugo server
 ```
 
 Se rendre sur `http://localhost:1313`
